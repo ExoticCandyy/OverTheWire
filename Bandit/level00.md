@@ -25,4 +25,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
 ---
-[Level 02 →](./level02.md)
+[Level 01 →](./level01.md)
