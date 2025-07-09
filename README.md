@@ -14,10 +14,10 @@ This repository contains my personal notes, solutions, and explanations for each
 
 | Wargame | Description | Status |
 |--------|-------------|--------|
-| [Bandit](./bandit/) | Beginner-friendly, focused on Linux basics | 🔄 In Progress |
-| [Natas](./natas/) | Web security challenges (client/server-side) | ⏳ Pending |
-| [Leviathan](./leviathan/) | Easy local privilege escalation challenges | ⏳ Pending |
-| [Krypton](./krypton/) | Classical cryptography techniques | ⏳ Pending |
+| [Bandit](./Bandit/) | Beginner-friendly, focused on Linux basics | 🔄 In Progress |
+| [Natas](./Natas/) | Web security challenges (client/server-side) | ⏳ Pending |
+| [Leviathan](./Leviathan/) | Easy local privilege escalation challenges | ⏳ Pending |
+| [Krypton](./Krypton/) | Classical cryptography techniques | ⏳ Pending |
 
 ---
 
