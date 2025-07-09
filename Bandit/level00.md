@@ -22,3 +22,7 @@
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+---
+
+🔹 [← Level 00](./level00.md) | [↑ Home](../README.md) | [Level 02 →](./level02.md)
