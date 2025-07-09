@@ -36,7 +36,7 @@ This repository contains my personal notes, solutions, and explanations for each
 
 Each folder contains:
 - A `README.md` file explaining the game and my approach
-- Level-by-level solutions (`level-xx.md`) with:
+- Level-by-level solutions (`levelxx.md`) with:
   - Objectives
   - Tools/commands used
   - Code snippets
