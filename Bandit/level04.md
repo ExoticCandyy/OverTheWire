@@ -43,4 +43,4 @@ cat ...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
 ---
-[← Level 05](./level05.md) | [Level 06 →](./level06.md)
+[← Level 03](./level03.md) | [Level 05 →](./level05.md)
