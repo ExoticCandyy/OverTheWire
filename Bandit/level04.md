@@ -10,7 +10,6 @@
 
 - **Host**: `bandit3.labs.overthewire.org`
 - **Port**: `2220`
-- **Username**: `bandit3`
 - **Password**: `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
 
 ---
