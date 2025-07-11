@@ -54,4 +54,4 @@ bandit5@bandit:~/inhere$ find . -type f -size 1033c -not -executable
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
 ---
-[← Level 04](./level04.md) | [Level 06 →](./level06.md)
+[← Level 05](./level05.md) | [Level 07 →](./level07.md)
