@@ -8,7 +8,7 @@
 
 ## 🧪 Credentials
 
-- **Host**: `bandit.labs.overthewire.org`
+- **Host**: `bandit0.labs.overthewire.org`
 - **Port**: `2220`
 - **Username**: `bandit0`
 - **Password**: `bandit0`
