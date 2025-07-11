@@ -36,4 +36,4 @@ cat readme
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 ---
-[← Level 00](./level00.md) | [Level 01 →](./level02.md)
+[← Level 00](./level00.md) | [Level 02 →](./level02.md)
