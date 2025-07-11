@@ -23,6 +23,9 @@
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-
+3. Then tyoe the password:
+```bash
+bandit0
+```
 ---
 [Level 01 →](./level01.md)
