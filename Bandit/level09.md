@@ -26,7 +26,6 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
 bandit8@bandit:~$ sort data.txt | uniq -u
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
-
 ```
 ---
 [← Level 08](./level08.md) | [Level 10 →](./level10.md)
