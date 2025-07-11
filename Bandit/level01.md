@@ -8,10 +8,10 @@
 
 ## 🧪 Credentials
 
-- **Host**: `bandit1.labs.overthewire.org`
+- **Host**: `bandit0.labs.overthewire.org`
 - **Port**: `2220`
-- **Username**: `bandit1`
-- **Password**: `bandit1`
+- **Username**: `bandit0`
+- **Password**: `bandit0`
 
 ---
 
@@ -23,6 +23,17 @@
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-
+3. run ls:
+```bash
+ls
+```
+4. There is a file named readme. Run this:
+```bash
+cat readme
+```
+5. The pass is:
+```bash
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+```
 ---
 [← Level 00](./level00.md) | [Level 01 →](./level02.md)
