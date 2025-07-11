@@ -22,19 +22,23 @@
 ```bash
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
-3. run ls -a. This searches for all files including hidden ones:
+3. run ls:
 ```bash
-ls -a
+ls
 ```
 4. There is a directory named inhere:
 ```bash
 cd inhere
 ```
-5. we run ls -a which shows the "...Hiding-From-You" file.
+5. we run ls -a. This searches for all files including hidden ones:
+```bash
+ls -a
+```
+6. we see the "...Hiding-From-You" file.
 ```bash
 cat ...Hiding-From-You
 ```
-6. The pass is:
+7. The pass is:
 ```bash
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
