@@ -58,7 +58,7 @@ exit 0
  | '_ \ / _` | '_ \ / _` | | __
 --More--(62%)
 ```
-7. press `v` on your keyboard then you'll go into an editor. type `:set shell=/bin/bash` the shell will change from `showtext` to `bash`. then type `:set shell?` to make sure it's changed. then type `:shell`.
+7. press `v` on your keyboard then you'll go into an editor. type `:set shell=/bin/bash` the shell will change from `showtext` to `bash`. then type `:set shell?` to make sure it's changed. then type `:shell`. now we're in `bandit27`.
 ```
 :set shell=/bin/bash
 :set shell?
