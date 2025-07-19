@@ -39,4 +39,5 @@ $ cat /etc/bandit_pass/bandit33
 tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
 ```
 ---
-[← Level 32](./leve32.md) | [Level 34→](./level34.md)
+ok we finished the `bandit` wargame. i hope this wakthrough helped you understand the Bandit wargame. Happy Hacking! <3
+[← Level 32](./leve32.md)
