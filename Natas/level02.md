@@ -11,7 +11,7 @@
 ## 🖥️ Steps
 
 1. Login to the website.
-2. it says `There is nothing on this page`. there is nithing here we'll check the source code.
+2. it says `There is nothing on this page`. there is nothing here we'll check the source code.
 3. press `Fn + F12`. Here is the source code:
 ```bash
 <html><head>
