@@ -14,8 +14,8 @@ This repository contains my personal notes, solutions, and explanations for each
 
 | Wargame | Description | Status |
 |--------|-------------|--------|
-| [Bandit](./Bandit/) | Beginner-friendly, focused on Linux basics | 🔄 In Progress |
-| [Natas](./Natas/) | Web security challenges (client/server-side) | ⏳ Pending |
+| [Bandit](./Bandit/) | Beginner-friendly, focused on Linux basics | ✅ Completed |
+| [Natas](./Natas/) | Web security challenges (client/server-side) | 🔄 In Progress |
 | [Leviathan](./Leviathan/) | Easy local privilege escalation challenges | ⏳ Pending |
 | [Krypton](./Krypton/) | Classical cryptography techniques | ⏳ Pending |
 
