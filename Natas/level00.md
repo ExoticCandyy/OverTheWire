@@ -18,9 +18,10 @@
 
 1. Login to the website.
 2. it says `You can find the password for the next level on this page.` so there has to be something in the source code.
-3. Here is the source code:
+3. Right click and select inspect, you'll see the source code. Here is the source code:
 ```bash
-<html><head>
+<html>
+<head>
 
 <!-- This stuff in the header has nothing to do with the level --><link rel="stylesheet" type="text/css" href="http://natas.labs.overthewire.org/css/level.css">
 <link rel="stylesheet" href="http://natas.labs.overthewire.org/css/jquery-ui.css">
