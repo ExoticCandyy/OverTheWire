@@ -2,7 +2,7 @@
 
 ## 🧩 Objective
 
-> Every level has it's own credentials we'll use it to do the job.
+> In every level we'll get a hint and try to figure it out and crack it.
 
 ---
 
