@@ -32,7 +32,7 @@ the credentials required.</p>
 ```
 4. i have added the `<a href="http://natas4.natas.labs.overthewire.org">click here</a>` line. after clicking that we'll go to the natas4 page and the pass is there. here is the pass:
 ```
- Access granted. The password for natas5 is 0n35PkggAPm2zbEpOU802c0x0Msn1ToK 
+ Access granted. The password for natas5 is 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
 ```
 ---
 [← Level 03](./level03.md) | [Level 05 →](./level05.md)
