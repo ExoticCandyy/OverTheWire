@@ -11,7 +11,7 @@
 ## 🖥️ Steps
 
 1. Login to the website.
-2. it says `Access disallowed. You are not logged in`. well how can it be? it has to do something with the cookies.
+2. it says `Access disallowed. You are not logged in`. well how can it be? when we loggin successfully webserver sends us a cookie so it has to do something with that.
 3. go into `inspect elements > storage > cookies` there is a cookie named `loggedin` it's value is `0` change it to `1` and refresh the page
 4. after refreshing the password is there:
 ```
