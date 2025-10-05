@@ -17,4 +17,3 @@
  xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
 ```
 ---
-[← Level 06](./level06.md) | [Level 08 →](./level08.md)
