@@ -34,4 +34,3 @@ if($key != "") {
 UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
 ```
 ---
-[← Level 09](./level09.md) | [Level 11 →](./level11.md)
