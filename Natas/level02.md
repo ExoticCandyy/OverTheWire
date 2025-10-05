@@ -57,4 +57,3 @@ mallory:9urtcpzBmH
 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
 ```
 ---
-[← Level 01](./level01.md) | [Level 03 →](./level03.md)
