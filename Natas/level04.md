@@ -35,4 +35,3 @@ the credentials required.</p>
  Access granted. The password for natas5 is 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
 ```
 ---
-[← Level 03](./level03.md) | [Level 05 →](./level05.md)
