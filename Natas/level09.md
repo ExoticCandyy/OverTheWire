@@ -46,4 +46,3 @@ index.php
 t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
 ```
 ---
-[← Level 08](./level08.md) | [Level 10 →](./level10.md)
