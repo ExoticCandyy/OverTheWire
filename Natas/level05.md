@@ -18,4 +18,3 @@
  Access granted. The password for natas6 is 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
 ```
 ---
-[← Level 04](./level04.md) | [Level 06 →](./level06.md)
