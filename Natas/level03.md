@@ -55,4 +55,3 @@ Disallow: /s3cr3t/
 natas4:QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
 ```
 ---
-[← Level 02](./level02.md) | [Level 04 →](./level04.md)
