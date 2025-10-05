@@ -37,4 +37,3 @@ $secret = "FOEIUWGHFEEUHOFUOIU";
 Access granted. The password for natas7 is bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
 ```
 ---
-[← Level 05](./level05.md) | [Level 07 →](./level07.md)
