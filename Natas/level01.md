@@ -46,4 +46,3 @@ next level on this page, but rightclicking has been blocked!
 <!--The password for natas2 is TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI -->
 ```
 ---
-[← Level 00](./level00.md) | [Level 02 →](./level02.md)
