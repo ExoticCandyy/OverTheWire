@@ -50,4 +50,3 @@ You can find the password for the next level on this page.
 <!--The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
 ```
 ---
-[Level 01 →](./level01.md)
