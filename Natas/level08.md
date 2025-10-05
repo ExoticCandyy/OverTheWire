@@ -48,4 +48,3 @@ php >
 Access granted. The password for natas9 is ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
 ```
 ---
-[← Level 07](./level07.md) | [Level 09 →](./level09.md)
