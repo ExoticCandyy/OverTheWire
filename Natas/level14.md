@@ -11,7 +11,7 @@
 ## 🖥️ Steps
 
 1. Login to the website.
-2. ok bye looking at it you realize it's sql injection. let's look at the source. here you can see we can perform an injection at the `$query` line. in the login page at the username section i'll type `" OR 1=1 #`. this will do. if you have zero knowledge of what injection means go watch sql injection by NetworkChuck. 
+2. ok by looking at it you realize it's sql injection. let's look at the source. here you can see we can perform an injection at the `$query` line. in the login page at the username section i'll type `" OR 1=1 #`. this will do. if you have zero knowledge of what injection means go watch sql injection by NetworkChuck. 
 ```
 if(array_key_exists("username", $_REQUEST)) {
     $link = mysqli_connect('localhost', 'natas14', '<censored>');
